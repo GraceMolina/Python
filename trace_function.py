@@ -1,3 +1,7 @@
+"""
+calculate the trace of a square matrix
+"""
+
 def trace(matrix):
     """
     Takes a square matrix and returns its trace
