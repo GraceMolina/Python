@@ -1,5 +1,5 @@
 """
-calculating the age of a person in days
+calculate the age of a person in days
 """
 
 import datetime
