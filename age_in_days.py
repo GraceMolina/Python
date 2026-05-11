@@ -1,4 +1,6 @@
-# working with dates
+"""
+calculating the age of a person in days
+"""
 
 import datetime
 
