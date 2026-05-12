@@ -1,5 +1,6 @@
 """
-read and write CSV files
+read a CSV file as a list of lists
+write a list of lists as a CSV file
 """
 
 import csv
